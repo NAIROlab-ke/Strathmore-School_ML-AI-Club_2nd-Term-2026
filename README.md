@@ -1,6 +1,6 @@
 # Junior Student Group (YOLO)
 
-### 1. AI Ecosystem, Part 1 (May 7)
+### 1. AI Ecosystem, Part 1 (May 7 - 14)
 - [Colab and Linux CLI, Introduction](https://colab.research.google.com/drive/1MbQ_D4J1lOiqfEmNwLnFpiD-gqmnXmk3)
 - [Face Detection with YOLO on Colab](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
 - Training Dataset
@@ -12,9 +12,11 @@
   - [face-1-480p.mp4](https://www.dropbox.com/scl/fi/b1qfc1drqeut3hcq7h9ad/face-1-480p.mp4?rlkey=krg9y3fqxjzf8rwxjot1b1akc&st=if1ky3xe&dl=0)
   - [faces-image.jpeg](https://www.dropbox.com/scl/fi/4kmw6ta04pv43lk59at78/faces-image.jpeg?rlkey=vx6jozeggjmetpl8dexnia7yx&st=fzvuwnhg&dl=0)
 
-### 2. AI Ecosystem,  Part 2 (May 14)
-- Roboflow Tutorial
-- Homework: Soda-can annotation and custom YOLO model training
+### 2. AI Ecosystem,  Part 2 (May 21)
+- **Whatch this first!** [**Roboflow + Google Drive + Google Colab Training Pipleline Tutorial**](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
+- Homework:
+  - Explore and select a different dataset for the detection of an object of choice (e.g. soda-can, road or traffic signs, sunflowers, etc) from the Roboflow Universe and train a custom Ultralytics YOLO model in Colab
+   
   
 ### 3. Realworld Football Analysis, Part 1  (May 21)
 - Understanding project requirements
@@ -23,8 +25,10 @@
   - Model size (parameter count)
 - Homework: Basic team player detection using FIFA data
 
+<!--
 ### 4. Realworld Football Analysis, Part 2 (May 28)
 - Showcasing and assessment of individual student YOLO models
+-->
 
 ### 5. Traffic Light Detection, Part 1 (June 4)
 - Data Collection and Image Annotation
