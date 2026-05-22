@@ -13,7 +13,7 @@
   - [faces-image.jpeg](https://www.dropbox.com/scl/fi/4kmw6ta04pv43lk59at78/faces-image.jpeg?rlkey=vx6jozeggjmetpl8dexnia7yx&st=fzvuwnhg&dl=0)
 
 ### 2. AI Ecosystem,  Part 2 (May 21)
-- **Whatch this first!** [**Roboflow + Google Drive + Google Colab Training Pipleline Tutorial**](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
+- **Watch this first!** [**Roboflow + Google Drive + Google Colab Training Pipleline Tutorial**](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
 - Homework:
   - Explore and select a different dataset for the detection of an object of choice (e.g. soda-can, road or traffic signs, sunflowers, etc) from the Roboflow Universe and train a custom Ultralytics YOLO model in Colab
    
