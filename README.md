@@ -18,7 +18,7 @@
   - Explore and select a different dataset for the detection of an object of choice (e.g. soda-can, road or traffic signs, sunflowers, etc) from the Roboflow Universe and train a custom Ultralytics YOLO model in Colab
    
   
-### 3. Realworld Football Analysis, Part 1  (May 21)
+### 3. Realworld Football Analysis, Part 1  (May 28)
 - Understanding project requirements
   - Custom data annotation of players, refs, linesmen, etc
   - Image resolution
