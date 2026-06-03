@@ -57,11 +57,10 @@
 - Gesture Recognition
 - Hand Landmark Recognition
 - Face Landmark Recognition
-### 4. App Development, Part 1 (June 4th)
+### 4. [Streamlit](https://colab.research.google.com/drive/1wVZIgjYCBR95nNL-ynEgySJZR4MN96mN#scrollTo=kOSTeKHPsDNJ)  (June 4)
+### 5. App Development, (June 18th)
 - Lights control with hand gestures
 - Volume control with hand gestures
-### 5. App Development, Part 2 (June 18th)
-- Students showcase their own innovations
 ### 6. Exhibition Day Capstone Project Brainstorming (July 2)
 - Project Ideas
   - Vision-based RC Car Control (Raspberry Pi)
