@@ -12,37 +12,43 @@
   - [face-1-480p.mp4](https://www.dropbox.com/scl/fi/b1qfc1drqeut3hcq7h9ad/face-1-480p.mp4?rlkey=krg9y3fqxjzf8rwxjot1b1akc&st=if1ky3xe&dl=0)
   - [faces-image.jpeg](https://www.dropbox.com/scl/fi/4kmw6ta04pv43lk59at78/faces-image.jpeg?rlkey=vx6jozeggjmetpl8dexnia7yx&st=fzvuwnhg&dl=0)
 
-### 2. AI Ecosystem,  Part 2 (May 21)
+### 2. AI Ecosystem,  Part 2 (May 21/28)
 - **Watch this first!** [**Roboflow + Google Drive + Google Colab Training Pipleline Tutorial**](https://colab.research.google.com/drive/1ZFKzxWIkEe3ptxmgcRDKUSZeGNW1KVMN#scrollTo=148eRPF04odg)
 - Homework:
   - Explore and select a different dataset for the detection of an object of choice (e.g. soda-can, road or traffic signs, sunflowers, etc) from the Roboflow Universe and train a custom Ultralytics YOLO model in Colab
-   
-  
+
+<!--
 ### 3. Realworld Football Analysis, Part 1  (May 28)
 - Understanding project requirements
   - Custom data annotation of players, refs, linesmen, etc
   - Image resolution
   - Model size (parameter count)
 - Homework: Basic team player detection using FIFA data
+-->
+
+### 3. Soda-Can Detection (June 4th)
+- Understand Image Annotation for object detection tasks using Roboflow Platform
+- Build Soda-can detection model on Google Colab
+- [Google Colab Notebook](https://colab.research.google.com/drive/1Ywn4LSUa_OqYuXnMtqHCg5Ub_w7NcRDq?usp=drive_link)
+  
 
 <!--
 ### 4. Realworld Football Analysis, Part 2 (May 28)
 - Showcasing and assessment of individual student YOLO models
 -->
 
-### 5. Traffic Light Detection, Part 1 (June 4)
+### 5. Traffic Light Detection, Part 1 (June 18)
 - Data Collection and Image Annotation
 - Homework: Build of custom YOLO model
-
+<!--
 ### 6. Traffic Light Detection, Part 2 (June 18)
 - Deployment and testing of student models on autopilot system
-  
-### 7. Exhibition Day Capstone Project Brainstorming (July 2)
+-->
+### 8. Exhibition Day Capstone Project Brainstorming (July 9)
 - Project Ideas
   - AI Vision-based Realtime Analysis of Strathmore School Field Sports
   - Autopilot traffic-light and road-sign recognition (DonkeyCar Platform)
 
-### 8. Capstone Project Development (July 9)
 ### 9. Exhibition Day Rehearsals (July 16)
 ### 10. Exhibition Day (July 23)
 
