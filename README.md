@@ -37,20 +37,20 @@
 - Showcasing and assessment of individual student YOLO models
 -->
 
-### 5. Traffic Light Detection, Part 1 (June 18)
+### 4. Traffic Light Detection, Part 1 (June 18)
 - Data Collection and Image Annotation
 - Homework: Build of custom YOLO model
 <!--
 ### 6. Traffic Light Detection, Part 2 (June 18)
 - Deployment and testing of student models on autopilot system
 -->
-### 8. Exhibition Day Capstone Project Brainstorming (July 9)
+### 5. Exhibition Day Capstone Project Brainstorming (July 9)
 - Project Ideas
   - AI Vision-based Realtime Analysis of Strathmore School Field Sports
   - Autopilot traffic-light and road-sign recognition (DonkeyCar Platform)
 
-### 9. Exhibition Day Rehearsals (July 16)
-### 10. Exhibition Day (July 23)
+### 6. Exhibition Day Rehearsals (July 16)
+### 7. Exhibition Day (July 23)
 
 <br><br>
 
