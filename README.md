@@ -43,7 +43,7 @@
   - Other humans previously detected by pre-trained model (i.e. "human" class) should be ignored
 - Lab
   - [Google Colab Notebook](https://colab.research.google.com/drive/1QXV9V6PGTMjLT1cSG44Xlw0b9atwr_7E?usp=drive_link)
-  - Upload [Football Test video](https://drive.google.com/file/d/11_AxeVf8nqumbQ2fQBYeY9Yw5unqveY3/view?usp=drive_link) to your Google Drive
+  - Upload [Football Test video](https://drive.google.com/file/d/11_AxeVf8nqumbQ2fQBYeY9Yw5unqveY3/view?usp=drive_link) to your Google Drive (i.e. `MyDrive`)
   
 <!--
 ### 4. Traffic Light Detection, Part 1 (June 18)
