@@ -70,9 +70,28 @@
 ### 2. [Internet of Things (IoT) Protocols with Python](https://colab.research.google.com/drive/1OeXjPPn027Rxyq0Wdg72c1fCaw8uuCR9) (May 21th)
 ### 3. MediaPipe API (May 28th)
 - Object Detection
+  - [Notebook](https://colab.research.google.com/drive/1RBEKU4mP8_T52Q8IDljfTPWMY9IjCbqF?usp=drive_link)
+  - [Test Video](https://drive.google.com/file/d/1n0w5rwSewhPGay13mRt3GItH4coWWybD/view?usp=sharing)
+- Face Detection
+  - [Notebook](https://colab.research.google.com/drive/1HUIvbgDdP1Pm5kB16Zqhu1JXtuGG_2R9?usp=drive_link)
+  - [Test Video 0](https://drive.google.com/file/d/1sPKL8GDBxEc017sYRgIHjuSquqgcdq5E/view?usp=sharing)
+  - [Test Video 1](https://drive.google.com/file/d/19lJL-3Tesa9liDVnTQtPHZCERvRvsyaf/view?usp=sharing)
+  - [Test Video 2](https://drive.google.com/file/d/1VIxy4oOr9bEA8-0rrIs0eCCCVDdSLjiu/view?usp=sharing)
+  - [Test Video 3](https://drive.google.com/file/d/1EKW8PCeh33p2FeeKErnwUQVsV4T7vYoA/view?usp=sharing)
+- Face Landmark Detection
+  - [Notebook](https://colab.research.google.com/drive/1_5AgOQooE9SZJF5SIsVmPnatNQbugmCY?usp=drive_link)
+  - [Test Video 0](https://drive.google.com/file/d/19lJL-3Tesa9liDVnTQtPHZCERvRvsyaf/view?usp=sharing)
+  - [Test Video 1](https://drive.google.com/file/d/1VIxy4oOr9bEA8-0rrIs0eCCCVDdSLjiu/view?usp=sharing)
+- Hand Landmark Detection
+  - [Notebook](https://colab.research.google.com/drive/1Bn63vY6i3cBeE94bUDptUu4DbiKwQGNM?usp=drive_link)
+  - [Test Video](https://drive.google.com/file/d/1WmNtTK48xNdWgn4e9YWFqnuotQiW5O8X/view?usp=sharing)     
 - Gesture Recognition
-- Hand Landmark Recognition
-- Face Landmark Recognition
+  - [Notebook](https://colab.research.google.com/drive/1AqW_c0ofphjoLQzyHyCQdOjWWbVwY8p2?usp=drive_link)
+  - [Test Video](https://drive.google.com/file/d/1WmNtTK48xNdWgn4e9YWFqnuotQiW5O8X/view?usp=sharing)
+- Pose Landmark Detection
+  - [Notebook](https://colab.research.google.com/drive/1PiNBxNATMRdzbg21hVHZNPYgfOknVUNE?usp=drive_link)
+  - [Test Video](https://drive.google.com/file/d/1P_qjE2pHV_mFSn3zfSSkdt-9sHTMNngA/view?usp=sharing)
+     
 ### 4. [Streamlit](https://colab.research.google.com/drive/1wVZIgjYCBR95nNL-ynEgySJZR4MN96mN#scrollTo=kOSTeKHPsDNJ)  (June 4)
 ### 5. App Development, (June 18th)
 - Lights control with hand gestures
