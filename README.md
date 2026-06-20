@@ -91,7 +91,8 @@
   - [Test Video](https://drive.google.com/file/d/1WmNtTK48xNdWgn4e9YWFqnuotQiW5O8X/view?usp=sharing)
 - Pose Landmark Detection
   - [Notebook](https://colab.research.google.com/drive/1PiNBxNATMRdzbg21hVHZNPYgfOknVUNE?usp=drive_link)
-  - [Test Video](https://drive.google.com/file/d/1P_qjE2pHV_mFSn3zfSSkdt-9sHTMNngA/view?usp=sharing)
+  - [Test Video 0](https://drive.google.com/file/d/1P_qjE2pHV_mFSn3zfSSkdt-9sHTMNngA/view?usp=sharing)
+  - [Test Video 1](https://drive.google.com/file/d/1K2BS0wv9tOaMjyaCDQK2X4DMYyAKtvEB/view?usp=sharing)
 ### 5. App Development, (June 25th)
 - Lights control with hand gestures
 - Volume control with hand gestures
