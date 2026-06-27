@@ -1,3 +1,5 @@
+<img width="1136" height="574" alt="nairolab-github-banner-cropped" src="https://github.com/user-attachments/assets/1d5cad7b-3c3e-46f1-8533-7aa0830abacb" />
+
 # Junior Student Group (YOLO)
 
 ### 1. AI Ecosystem, Part 1 (May 7 - 14)
