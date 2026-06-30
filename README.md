@@ -1,4 +1,4 @@
-<img width="1136" height="574" alt="nairolab-github-banner-cropped" src="https://github.com/user-attachments/assets/1d5cad7b-3c3e-46f1-8533-7aa0830abacb" />
+<img width="1136" height="574" alt="nairolab-github-banner-cropped" src="https://github.com/NAIROlab-ke/Strathmore-School-ML-AI-Club_Term-2_2026/blob/main/nairolab-github-banner-cropped.png" />
 
 # Junior Student Group (YOLO)
 
