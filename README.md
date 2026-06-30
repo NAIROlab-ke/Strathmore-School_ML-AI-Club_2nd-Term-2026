@@ -111,11 +111,15 @@
 - Pose Landmark Detection
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PiNBxNATMRdzbg21hVHZNPYgfOknVUNE?usp=drive_link)
   - [Test Video](https://drive.google.com/file/d/1P_qjE2pHV_mFSn3zfSSkdt-9sHTMNngA/view?usp=sharing)
-    
-### 5. App Development, (June 25th)
+
+### 5. Artificial Intelligence of Things, AIoT
+
+<img width="999" height="421" alt="aiot-arch" src="https://github.com/user-attachments/assets/2c971f16-48df-4ced-be95-fb919f900b26" />
+
+### 6. App Development, (June 25th)
 - Lights control with hand gestures
 - Volume control with hand gestures
-### 6. Exhibition Day Capstone Project Brainstorming (July 2)
+### 7. Exhibition Day Capstone Project Brainstorming (July 2)
 - Project Ideas
   - Vision-based RC Car Control (Raspberry Pi)
   - AI Vision Smart CCTV with IoT integrations (Raspberry Pi)
@@ -125,6 +129,6 @@
       2. Pose-estimation in addition to face/body detection for human target counting
       3. Gesture control
      -->
-### 7. Capstone Project Development (July 9)
+### 8. Capstone Project Development (July 9)
 ### 8. Exhibition Day Rehearsals (July 16)
 ### 9. Exhibition Day (July 23)
