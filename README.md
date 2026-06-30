@@ -85,9 +85,12 @@
 
 # Senior Student Group (MediaPipe)
 
-### 1. [Introduction to Python](https://colab.research.google.com/drive/1Xjif0l1T265o3CJGt48gxgq462lQq1ng?usp=sharing) (May 7th/14th)
-### 2. [Internet of Things (IoT) Protocols with Python](https://colab.research.google.com/drive/1OeXjPPn027Rxyq0Wdg72c1fCaw8uuCR9) (May 21th)     
-### 3. [Streamlit](https://colab.research.google.com/drive/1wVZIgjYCBR95nNL-ynEgySJZR4MN96mN#scrollTo=kOSTeKHPsDNJ)  (June 4)
+### 1. Introduction to Python (May 7th/14th)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xjif0l1T265o3CJGt48gxgq462lQq1ng?usp=sharing)
+### 2. Internet of Things (IoT) Protocols with Python (May 21st)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OeXjPPn027Rxyq0Wdg72c1fCaw8uuCR9)
+### 3. Streamlit (June 4th)
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wVZIgjYCBR95nNL-ynEgySJZR4MN96mN#scrollTo=kOSTeKHPsDNJ)
 ### 4. MediaPipe API (June 18th)
 - Object Detection
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RBEKU4mP8_T52Q8IDljfTPWMY9IjCbqF?usp=drive_link)
@@ -112,7 +115,7 @@
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PiNBxNATMRdzbg21hVHZNPYgfOknVUNE?usp=drive_link)
   - [Test Video](https://drive.google.com/file/d/1P_qjE2pHV_mFSn3zfSSkdt-9sHTMNngA/view?usp=sharing)
 
-### 5. Artificial Intelligence of Things, AIoT
+### 5. Artificial Intelligence of Things, AIoT (July 2nd)
 
 <img width="999" height="421" alt="aiot-arch" src="https://github.com/user-attachments/assets/2c971f16-48df-4ced-be95-fb919f900b26" />
 
