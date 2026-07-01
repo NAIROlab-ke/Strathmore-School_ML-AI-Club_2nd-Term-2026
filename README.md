@@ -120,7 +120,7 @@
 - **AIoT** combines **Artificial Intelligence (AI)** with the **Internet of Things (IoT)** to create smart systems that can **sense, understand, communicate,** and **respond** to their environment.
 - In this lesson:
   - **MediaPipe** acts as the intelligent vision-based sensor that detects events,
-  - **MQTT** provides the IoT messaging that connects components,
+  - **MQTT protocol** provides the IoT messaging that connects components,
   - **Streamlit** serves as the dashboard that displays and reacts to those events
     
   ... illustrating how modern AI-enabled systems are built from **independent** and **loosely-coupled** services working together.
