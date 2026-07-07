@@ -155,7 +155,9 @@
 
 <img width="1491" height="557" alt="architecture" src="https://github.com/user-attachments/assets/8f80f9e0-3f90-4710-ba54-e086de6a53c4" />
 
-- **MQTT to facilitate scaling of "gate-units"** (*face-detection camera* + *tailgate-detection camera* + *door/gate actuators*)
+- **MQTT to facilitate system scaling**
+	- Multiple "gate-units"** (*face-detection camera* + *tailgate-detection camera* + *door/gate actuators*)
+ 	- Multiple dashboards	 
 - **Centralized management for databases**
   - Face embeddings
   - Event log SQL
