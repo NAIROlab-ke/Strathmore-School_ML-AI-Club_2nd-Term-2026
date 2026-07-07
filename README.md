@@ -153,8 +153,7 @@
 
 #### **B) Proposed System Architecture**
 
-<img width="1491" height="557" alt="architecture" src="https://github.com/user-attachments/assets/bbfc99bf-af8c-4577-a971-3b7cd67fbba7" />
-
+<img width="1491" height="557" alt="architecture" src="https://github.com/user-attachments/assets/8f80f9e0-3f90-4710-ba54-e086de6a53c4" />
 
 ### 7. Exhibition Day Rehearsals (July 16)
 ### 8. Exhibition Day (July 23)
