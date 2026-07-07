@@ -153,7 +153,7 @@
 
 #### **B) Proposed System Architecture**
 
-<img width="1491" height="557" alt="architecture" src="https://github.com/user-attachments/assets/8f80f9e0-3f90-4710-ba54-e086de6a53c4" />
+<img width="1491" height="557" alt="architecture" src="https://github.com/user-attachments/assets/aaa21f5d-00ec-404d-972d-95baf9b705fe" />
 
 - **MQTT to facilitate system scaling**
 	- Multiple "gate-units"** (*face-detection camera* + *tailgate-detection camera* + *door/gate actuators*)
