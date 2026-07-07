@@ -147,5 +147,12 @@
   - Follow instructions in [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nuZchxeoMemQZRmbtFbOOtCMJm2uXpcp) to setup a Streamlit dashboard and MQTT listener on your local machine (Microsoft Windows)
   
 ### 6. Capstone Project Development (July 9)
+#### **Proposed capstone project: AI-powered Attendance/Access System**
+- Using face biometrics and human detection for person verification and access control, and video event logging
+- Using Large Language Models (LLM) for event log retrieval via text-to-SQL to support natural language queries
+
+#### **Proposed System Architecture**
+
+
 ### 7. Exhibition Day Rehearsals (July 16)
 ### 8. Exhibition Day (July 23)
