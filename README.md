@@ -155,5 +155,13 @@
 
 <img width="1491" height="557" alt="architecture" src="https://github.com/user-attachments/assets/8f80f9e0-3f90-4710-ba54-e086de6a53c4" />
 
+- **MQTT to facilitate scaling of "gate-units"** (*face-detection camera* + *tailgate-detection camera* + *door/gate actuators*)
+- **Centralized management for databases**
+  - Face embeddings
+  - Event log SQL
+- **Streamlit-based dashboard**
+	- Face registration UI
+	- Event log and video footage querying/display UI
+
 ### 7. Exhibition Day Rehearsals (July 16)
 ### 8. Exhibition Day (July 23)
