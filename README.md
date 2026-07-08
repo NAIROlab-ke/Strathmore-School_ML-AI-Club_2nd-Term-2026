@@ -150,6 +150,7 @@
 #### **A) Proposed capstone project: AIoT-powered Attendance/Access System**
 - Using face biometrics and human detection for person verification and access control, and video event logging
 - Using Large Language Models (LLM) for event log retrieval via text-to-SQL to support natural language queries
+- Using IoT protocols to facilitate a distributed system architecture
 
 #### **B) Proposed System Architecture**
 
