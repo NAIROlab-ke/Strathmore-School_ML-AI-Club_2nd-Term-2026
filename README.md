@@ -1,6 +1,9 @@
+<div align="center">
+<h1>Activities for Term 2, 2026</h1>
 <img width="1136" height="574" alt="nairolab-github-banner-cropped" src="https://github.com/NAIROlab-ke/Strathmore-School-ML-AI-Club_Term-2_2026/blob/main/nairolab-github-banner-cropped.png" />
+</div>
 
-# Junior Student Group (YOLO)
+## Junior Student Group (YOLO)
 
 ### 1. AI Ecosystem, Part 1 (May 7 - 14)
 - **Colab and Linux CLI, Introduction** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MbQ_D4J1lOiqfEmNwLnFpiD-gqmnXmk3)
@@ -86,7 +89,7 @@
 
 <br><br>
 
-# Senior Student Group (MediaPipe)
+## Senior Student Group (MediaPipe)
 
 ### 1. Introduction to Python (May 7th/14th)
 - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xjif0l1T265o3CJGt48gxgq462lQq1ng?usp=sharing)
